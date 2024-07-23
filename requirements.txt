@@ -1,0 +1,4 @@
+scapy==2.5.0
+python3-nmap==1.4.8
+mac-vendor-lookup==0.1.11
+prettytable==0.7.2
